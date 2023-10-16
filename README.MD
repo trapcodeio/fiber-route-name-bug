@@ -6,3 +6,4 @@ To reproduce or run,
 - cd into each of the version folders and run `go run server.go`
 - For version 2.46 visit http://localhost:3000
 - For version 2.47 visit http://localhost:3001
+- For version 2.50 visit http://localhost:3002

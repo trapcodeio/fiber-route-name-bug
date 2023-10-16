@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "okay": "cd v2_46 && go run server.go",
-    "bug": "cd v2_47_upwards && go run server.go"
+    "2.46": "cd v2_46 && go run server.go",
+    "2.47": "cd v2_47 && go run server.go",
+    "2.50": "cd v2_50 && go run server.go"
   }
 }
